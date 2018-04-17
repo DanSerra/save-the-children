@@ -16,7 +16,7 @@ Design Thinking
 
 ## Investigación
 
-# Entendimiento del producto
+Entendimiento del producto
 
 1 Save the children cuenta con una donación de busquedas pagadas para el uso en sus productos digitales. Parte de las acciones para lograr tráfico a sus canales es utilizar keywords para encontrar posibles visitantes a sus multiples portales entre ellos landing pages, que están pensadas como instrumentos para generar conversiones es decir donaciones de dinero.
 
@@ -26,7 +26,7 @@ Design Thinking
 
 ## Concepto de diseño
 
-# Modelo de negocio
+Modelo de negocio
 
 1 Lienzo modelo de negocio
 imagen
