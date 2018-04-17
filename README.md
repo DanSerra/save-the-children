@@ -1,7 +1,5 @@
 # Save the Children
 
-Proyecto Sprint #2 | Track UX _Laboratoria_
-
 ## Reto
 
 Optimizar la conversión de visitantes a donadores, mediante landing page https://goo.gl/7d2dao
