@@ -1,4 +1,6 @@
-# Proyecto Sprint #2 | Track UX _Laboratoria_
+# Save the Children
+
+Proyecto Sprint #2 | Track UX _Laboratoria_
 
 ## Reto
 
@@ -57,4 +59,3 @@ Formulario
 Landing page
 ![landingpage](https://user-images.githubusercontent.com/31232183/38241555-27f9c726-36f8-11e8-97a1-09451a3c9365.png)
 
-## Conclusiones
